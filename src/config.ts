@@ -65,7 +65,7 @@ export default {
     { text: 'Github', link: 'https://github.com/1498934815', icon: 'WebSite_github' },
     { text: '每日热榜', link: 'https://hot.vvhan.com', icon: 'WebSite_hot' },
     { text: '骤雨重山图床', link: 'https://wp-cdn.4ce.cn', icon: 'WebSite_img' },
-    { text: 'JASMIAMAnalytics', link: 'https://analytics.jasmiam.top', icon: 'WebSite_analytics' },
+    { text: 'Analytics', link: 'https://analytics.jasmiam.top', icon: 'WebSite_analytics' },
   ],
   // 侧边栏展示
   AsideShow: {
@@ -103,7 +103,7 @@ export default {
     }
   },
   // Han Analytics 统计（https://github.com/uxiaohan/HanAnalytics）
-  JASMIAMAnalytics: { enable: true, server: 'https://analytics.jasmiam.top', siteId: 'Hello-HanHexoBlog' },
+  Analytics: { enable: true, server: 'https://analytics.jasmiam.top', siteId: 'JASMIAMBlog' },
   // Google 广告
   GoogleAds: {
     ad_Client: '', //ca-pub-xxxxxx
