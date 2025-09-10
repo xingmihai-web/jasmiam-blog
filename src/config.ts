@@ -93,17 +93,17 @@ export default {
   Comment: {
     // Twikoo 评论
     Twikoo: {
-      enable: true,
+      enable: false,
       envId: ''
     },
     // Waline 评论
     Waline: {
-      enable: false,
+      enable: true,
       serverURL: ''
     }
   },
   // Han Analytics 统计（https://github.com/uxiaohan/HanAnalytics）
-  HanAnalytics: { enable: true, server: 'https://analytics.vvhan.com', siteId: 'Hello-HanHexoBlog' },
+  HanAnalytics: { enable: true, server: 'https://analytics.jasmiam.top', siteId: 'Hello-HanHexoBlog' },
   // Google 广告
   GoogleAds: {
     ad_Client: '', //ca-pub-xxxxxx
