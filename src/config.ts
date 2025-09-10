@@ -1,14 +1,14 @@
 export default {
   // 网站标题
-  Title: '静谧幻想家博客',
+  Title: '静谧幻想家的博客',
   // 网站地址
-  Site: 'jasmiam.dpdns.org',
+  Site: 'https://jasmiam.dpdns.org/',
   // 网站副标题
   Subtitle: '不曾与你分享的时间,我在进步.',
   // 网站描述
   Description: '静谧幻想家博客 专注于前开发与相关技术的实战分享，涵盖Vue框架、Node.js、Serverless等，并涉及Node、Python、Linux、Docker等领域。同时，博客也分享作者的生活、音乐和旅行的热爱。',
   // 网站作者
-  Author: '.𝙃𝙖𝙣',
+  Author: 'JASMIAM',
   // 作者头像
   Avatar: 'https://q1.qlogo.cn/g?b=qq&nk=1498934815&s=640',
   // 网站座右铭
