@@ -82,7 +82,7 @@ export default {
   DNSOptimization: [
     'https://i0.wp.com',
     'https://cn.cravatar.com',
-    'https://analytics.vvhan.com',
+    'https://analytics.jasmiam.top',
     'https://vh-api.4ce.cn',
     'https://registry.npmmirror.com',
     'https://pagead2.googlesyndication.com'
@@ -98,12 +98,12 @@ export default {
     },
     // Waline 评论
     Waline: {
-      enable: true,
+      enable: false,
       serverURL: ''
     }
   },
   // Han Analytics 统计（https://github.com/uxiaohan/HanAnalytics）
-  HanAnalytics: { enable: true, server: 'https://analytics.jasmiam.top', siteId: 'Hello-HanHexoBlog' },
+  JASMIAMAnalytics: { enable: true, server: 'https://analytics.jasmiam.top', siteId: 'Hello-HanHexoBlog' },
   // Google 广告
   GoogleAds: {
     ad_Client: '', //ca-pub-xxxxxx
