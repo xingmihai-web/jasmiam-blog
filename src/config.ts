@@ -93,8 +93,8 @@ export default {
   Comment: {
     // Twikoo 评论
     Twikoo: {
-      enable: false,
-      envId: ''
+      enable: true,
+      envId: 'blog.jasmiam.top'
     },
     // Waline 评论
     Waline: {
