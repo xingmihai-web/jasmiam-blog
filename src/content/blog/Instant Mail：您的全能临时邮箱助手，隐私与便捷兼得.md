@@ -16,7 +16,7 @@ hide: false
 已去广告，解锁创建 `@gmail.com`
 :::
 
-::btn[破解版下载链接]{link="https://save.jasmiam.top/instantmail_jasmiam.apk" type="error"}
+::btn[破解版下载链接]{link="https://save.jasmiam.top/InstantMail_JASMIAM.apk" type="error"}
 
 ::btn[原版下载链接]{link="https://appurl.io/Ww48gjBKdo"}
 
