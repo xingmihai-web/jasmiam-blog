@@ -68,7 +68,7 @@ export default {
     { text: '微信', link: 'https://img.jasmiam.top/v2/ROIwNPT.png', icon: 'WebSite_wechat' },
     { text: 'QQ', link: 'mqqopensdkapi://bizAgent/qm/qr?url=https%3A%2F%2Fqm.qq.com%2Fcgi-bin%2Fqm%2Fqr%3Fk%3DtYrhpSkPVMGRrU_u6RBUcYwsXQAxh_b_%26jump_from%3D%26auth%3D%26app_name%3D%26authSig%3D%26source_id%3D3_40001', icon: 'WebSite_qq' },
     { text: 'bilibili', link: 'mqqopensdkapi://bizAgent/qm/qr?url=WebStie_bilibili', icon: 'WebStie_bilibili' },
-  ],
+    { text: 'QQ群', link: 'mqqapi://card/show_pslcard?src_type=internal&version=1&uin=1054810204&card_type=group&source=qrcode', icon: 'WebStie_group' },  ],
   // 侧边栏展示
   AsideShow: {
     // 是否展示个人网站
