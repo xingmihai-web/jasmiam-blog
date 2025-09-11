@@ -100,7 +100,7 @@ export default {
     }
   },
   // Han Analytics 统计（https://github.com/uxiaohan/HanAnalytics）
-  Analytics: { enable: true, server: 'https://analytics.jasmiam.top', siteId: 'JASMIAMBlog' },
+  Analytics: { enable: true, server: 'https://analytics.jasmiam.top', siteId: 'JASMIAMblog' },
   // Google 广告
   GoogleAds: {
     ad_Client: '', //ca-pub-xxxxxx
