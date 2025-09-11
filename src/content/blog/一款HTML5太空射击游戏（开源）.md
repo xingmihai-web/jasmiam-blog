@@ -6,6 +6,7 @@ tags:
   - HTML
 id: Spaceshooting
 date: 2025-09-12 00:30:00
+recommend: true
 ---
 
 ::btn[👉 立即体验]{link="https://jasmiam.top/Spaceshooting" type="success"}
