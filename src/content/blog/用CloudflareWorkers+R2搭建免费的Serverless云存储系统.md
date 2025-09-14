@@ -4,6 +4,7 @@ categories: Cloudflare
 tags:
   - Cloudflare
   - 自建云盘
+  - 开源
 id: 20250914074700
 date: 2025-09-14 07:47:00
 recommend: true
