@@ -160,6 +160,51 @@ MIT License — 可自由使用、修改和分发
 ![Astro主题-vhAstro-Theme](https://img.jasmiam.top/v2/zJbJWxM.jpeg)
 :::
 
+## 如果要不输入密码也能下载降以下代码替换为
+```js
+if (!ACCESS_PASSWORD) {
+  return handleRequest(request, env, bucket, url);
+}
+
+if (url.pathname === "/login" && request.method === "POST") {
+  return await handleLogin(request, ACCESS_PASSWORD);
+}
+
+if (!isAuthenticated(request, ACCESS_PASSWORD) && url.pathname !== "/login") {
+  return showLoginPage(request, "请先登录", false);
+}
+```
+```js
+const isFileDownload = request.method === "GET" && !url.pathname.startsWith("/") === false
+  && ![
+    "/",           // 首页（文件列表，需要登录）
+    "/upload",     // 上传文件，需要登录
+    "/delete",     // 删除文件，需要登录
+    "/login"       // 登录页面本身不受影响
+  ].includes(url.pathname);
+
+if (!ACCESS_PASSWORD) {
+  // 如果没有设置密码，直接放行所有
+  return handleRequest(request, env, bucket, url);
+}
+
+if (url.pathname === "/login" && request.method === "POST") {
+  // 处理登录 POST 请求
+  return await handleLogin(request, ACCESS_PASSWORD);
+}
+
+if (!isAuthenticated(request, ACCESS_PASSWORD)) {
+  // 如果用户未登录
+  if (isFileDownload) {
+    // 🔓 如果是文件下载请求，不检查登录，直接进入处理流程
+    return handleRequest(request, env, bucket, url);
+  } else {
+    // 🔒 否则，要求登录
+    return showLoginPage(request, "请先登录", false);
+  }
+}
+```
+
 ::btn[👉 源码已上传至 GitHub]{link="https://github.com/1498934815/cloudflare-file-manager" type="error"}
 
 ### 或直接复制
