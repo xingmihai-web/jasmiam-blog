@@ -154,7 +154,7 @@ MIT License — 可自由使用、修改和分发
 
 ::btn[👉 源码已上传至 GitHub]{link="https://github.com/1498934815/cloudflare-file-manager" type="error"}
 
-###或直接复制
+### 或直接复制
 
 ```js
 export default {
