@@ -15,9 +15,6 @@ recommend: true
 
 无需购买服务器，无需数据库，全球 CDN 加速，即开即用！
 
-## 视频预览
-
-::vhVideo{url="/assets/videos/output.m3u8"}
 
 ---
 
