@@ -17,14 +17,7 @@ recommend: true
 
 ---
 
-graph TD
-  A[注册 Cloudflare 账号] --> B[开通 Workers 和 R2]
-  B --> C[创建 R2 存储桶<br/>如：my-files]
-  C --> D[创建 Cloudflare Worker]
-  D --> E[配置环境变量<br/>ACCESS_PASSWORD=xxx]
-  E --> F[绑定 R2 Bucket<br/>命名为 MY_BUCKET]
-  F --> G[保存并部署]
-  G --> H[访问 Worker URL，登录使用]
+![1001276374.png](https://img.jasmiam.top/v2/2pohgLP.png)
 
 ### ✨ 功能特性
 
