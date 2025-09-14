@@ -17,7 +17,7 @@ recommend: true
 
 ## 视频预览
 
-::vhVideo{url="assets/videos/output.m3u8"}
+::vhVideo{url="/assets/videos/output.m3u8"}
 
 ---
 
