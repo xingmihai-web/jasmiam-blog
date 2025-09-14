@@ -15,6 +15,10 @@ recommend: true
 
 无需购买服务器，无需数据库，全球 CDN 加速，即开即用！
 
+## 视频预览
+
+::vhVideo{url="http://save.jasmiam.top/Screenrecorder-2025-09-14-07-31-48-97.mp4"}
+
 ---
 
 ![1001276374.png](https://img.jasmiam.top/v2/2pohgLP.png)
