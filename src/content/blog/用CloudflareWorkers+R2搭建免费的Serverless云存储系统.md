@@ -160,7 +160,7 @@ MIT License — 可自由使用、修改和分发
 ![Astro主题-vhAstro-Theme](https://img.jasmiam.top/v2/zJbJWxM.jpeg)
 :::
 
-## 如果要不输入密码也能下载将以下代码替换为
+## 如果要不输入密码也能下载将以下代码
 ```js
 if (!ACCESS_PASSWORD) {
   return handleRequest(request, env, bucket, url);
@@ -174,6 +174,7 @@ if (!isAuthenticated(request, ACCESS_PASSWORD) && url.pathname !== "/login") {
   return showLoginPage(request, "请先登录", false);
 }
 ```
+## 替换为
 ```js
 const isFileDownload =
   request.method === "GET" &&
