@@ -215,7 +215,7 @@ if (!isLoggedIn) {
 | 删除文件（ /delete） | ✅ 需要 | 未登录用户会被拦截 |
 | 登录页面/login| ✅ （提交密码时） | 正常显示和提交 |
 
-::btn[👉 源码已上传至 GitHub]{link="https://github.com/1498934815/cloudflare-file-manager" type="error"}
+::btn[👉 源码已上传至 GitHub]{link="https://github.com/jasm1am/cloudflare-file-manager" type="error"}
 
 ### 或直接复制
 
