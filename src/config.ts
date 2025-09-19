@@ -67,6 +67,7 @@ export default {
     { text: 'MT论坛', link: 'https://bbs.binmt.cc/home.php?mod=space&uid=147108&do=profile', icon: 'WebSite_mt' },
     { text: '微信', link: 'https://img.jasmiam.top/v2/ROIwNPT.png', icon: 'WebSite_wechat' },
     { text: 'QQ', link: 'mqqopensdkapi://bizAgent/qm/qr?url=https%3A%2F%2Fqm.qq.com%2Fcgi-bin%2Fqm%2Fqr%3Fk%3DtYrhpSkPVMGRrU_u6RBUcYwsXQAxh_b_%26jump_from%3D%26auth%3D%26app_name%3D%26authSig%3D%26source_id%3D3_40001', icon: 'WebSite_qq' },
+    { text: 'Email', link: 'mailto:hr@jasmiam.top', icon: 'WebSite_email' },
     { text: 'bilibili', link: 'https://b23.tv/EscDwn5', icon: 'WebStie_bilibili' },
     { text: 'QQ群', link: 'mqqapi://card/show_pslcard?src_type=internal&version=1&uin=1054810204&card_type=group&source=qrcode', icon: 'WebStie_group' },  ],
   // 侧边栏展示
