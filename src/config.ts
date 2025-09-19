@@ -55,6 +55,7 @@ export default {
     { text: '朋友', link: '/links', icon: 'Nav_friends' },
     { text: '动态', link: '/talking', icon: 'Nav_talking' },
     { text: '昔日', link: '/archives', icon: 'Nav_archives' },
+    { text: '留言', link: '/message', icon: 'Nav_message' },
     { text: '关于', link: '/about', icon: 'Nav_about' },
   ],
   // 侧边栏个人网站
