@@ -7,7 +7,7 @@ type: "links"
 ---
 
 :::note{type="success"}
-✉️ 邮件到hr@jasmiam.top按以下格式留下你的友链数据，和我互换友链吧！
+✉️ 邮件到mailto:hr@jasmiam.top按以下格式留下你的友链数据，和我互换友链吧！
 
 👭 排名不分先后，每次刷新 友链 会随机排列噢~
 :::
