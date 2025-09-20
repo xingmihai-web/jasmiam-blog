@@ -84,7 +84,7 @@ export default {
   },
   // DNS预解析地址
   DNSOptimization: [
-    'https://registry.npmmirror.com',
+    'https://jasmiamwaline.netlify.app/.netlify/functions/comment',
     'https://i0.wp.com',
     'https://cn.cravatar.com',
     'https://analytics.jasmiam.top',
@@ -104,8 +104,9 @@ export default {
     // Waline 评论
     Waline: {
       enable: true,
-      serverURL: 'https://waline.jasmiam.top/.netlify/functions/comment'
+      serverURL: 'https://jasmiamwaline.netlify.app/.netlify/functions/comment'
 
+//https://jasmiamwaline.netlify.app/.netlify/functions/comment
 //https://waline.jasmiam.top/.netlify/functions/comment
 //https://waline2.jasmiam.top
     }
