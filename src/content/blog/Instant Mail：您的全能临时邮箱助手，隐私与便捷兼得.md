@@ -12,7 +12,7 @@ top: false
 hide: false
 ---
 
-::btn[下载链接]{link="https://save.jasmiam.top/InstantMail_JASMIAM.apk" type="error"}
+::btn[下载链接]{link="https://save.jasmiam.top/raw/InstantMail_JASMIAM.apk" type="error"}
 
 ::btn[官方下载链接]{link="https://appurl.io/Ww48gjBKdo"}
 
