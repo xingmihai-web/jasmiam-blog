@@ -53,7 +53,7 @@ type: "about"
 
 |     主&emsp;页      |       <https://page.jasmiam.top>        |
 | :-----------------: | :-------------------------------: |
-|   **博&emsp;客**    |    **<https://jasmiam.top>**    |
+|   **博&emsp;客**    |    **<https://www.xmhai.cn>**    |
 |  **Analytics**  | **<https://analytics.jasmiam.top>** |
 
 ## 联系我
