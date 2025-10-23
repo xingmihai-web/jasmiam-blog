@@ -35,7 +35,7 @@ recommend: true
 | 类型 | 名称 | 目标 | 代理状态 |
 | :--: | :--: | :--: | :--: |
 | cname | cdn | cloudflare.182682.xyz | 关 |
-| cname | @ | netlify给的网址 | 开 |
+| cname或A | @ | 网址或ip | 开 |
 
 :::picture
 ![Screenshot_2025-10-24-04-50-31-809_mark.via.png](https://img.jasmiam.top/v2/iaBzi9V.png)
@@ -70,7 +70,7 @@ recommend: true
 
 | 类型 | 名称 | 目标 | 代理状态 |
 | :--: | :--: | :--: | :--: |
-| cname | page | netlify给的网址 | 开 |
+| cname或A | page | 网址或ip | 开 |
 
 ![Screenshot_2025-10-24-05-02-25-332_mark.via.png](https://img.jasmiam.top/v2/lbQQsz0.png)
 
