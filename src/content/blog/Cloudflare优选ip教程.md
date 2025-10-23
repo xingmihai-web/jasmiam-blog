@@ -75,7 +75,7 @@ recommend: true
 #### 辅助域名自定义主机名
 
 :::note{type="error"}
-自定义主机名填page.xmhai.cn，自定义源服务器选**自定义源服务器**填写page.jasmiam.too
+自定义主机名填page.xmhai.cn，自定义源服务器选**自定义源服务器**填写page.jasmiam.top
 :::
 
 ![Screenshot_2025-10-24-05-04-27-128_mark.via.png](https://img.jasmiam.top/v2/yJhkvUy.png)
