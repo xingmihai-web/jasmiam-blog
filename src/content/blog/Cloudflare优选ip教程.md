@@ -59,6 +59,8 @@ recommend: true
 | :--: | :--: | :--: | :--: |
 | cname | @ | cdn.jasmiam.top | 关 |
 
+![Screenshot_2025-10-24-05-15-18-220_mark.via.png](https://img.jasmiam.top/v2/e8cQr9R.png)
+
 > 然后访问**xmhai.cn**就可以了
 
 ### 如何配置多个站点？
@@ -86,6 +88,6 @@ recommend: true
 | :--: | :--: | :--: | :--: |
 | cname | page | cdn.jasmiam.top | 关 |
 
-![Screenshot_2025-10-24-05-08-00-843_mark.via.png](https://img.jasmiam.top/v2/YwiVW5s.png)
+![Screenshot_2025-10-24-05-14-03-648_mark.via.png](https://img.jasmiam.top/v2/TuMnQiY.png)
 
 > 然后访问**page.xmhai.cn**就行了
