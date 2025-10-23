@@ -11,10 +11,15 @@ recommend: true
 ---
 :::note{type="error"}
 用我的两个域名来演示
+
 主力域名: xmhai.cn  辅助域名: jasmiam.top
+
 我的两个域名都托管在Cloudflare
+
 主力域名用来访问，辅助域名用来优选
+
 优选域我用的是 cloudflare.182682.xyz
+
 网站我是部署在netlify上的
 :::
 
