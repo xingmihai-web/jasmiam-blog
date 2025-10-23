@@ -1,7 +1,7 @@
 ---
 title: "关于"
 h1: "关于我"
-desc: "Hi there, I’m JASMIAM 👋"
+desc: "Hi there, I’m XMHAI 👋"
 layout: "@/layouts/PageLayout/PageLayout.astro"
 type: "about"
 ---
