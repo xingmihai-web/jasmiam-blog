@@ -12,9 +12,9 @@ recommend: true
 
 # TalkEase - 实时聊天
 
-::btn[👉 体验地址]{link="https://talkease-room.jasmiam.top/"}
+::github{repo="xingmih/TalkEase"}
 
-::btn[👉 快速开始]{link="https://github.com/JASM1AM/TalkEase"}
+::btn[👉 体验地址]{link="https://talkease-room.jasmiam.top/"}
 
 ## 项目概述
 
