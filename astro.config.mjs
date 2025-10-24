@@ -6,6 +6,7 @@ import { defineConfig } from 'astro/config';
 import { fileURLToPath } from 'url';
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 // Markdown 配置================
+import { GithubCardComponent } from "./src/plugins/rehype-component-github-card.mjs";
 import remarkMath from "remark-math";
 import rehypeSlug from "rehype-slug";
 import rehypeKatex from "rehype-katex";
