@@ -102,7 +102,7 @@ export default {
     // Waline 评论
     Waline: {
       enable: true,
-      serverURL: 'https://waline.jasmiam.top/.netlify/functions/comment'
+      serverURL: 'https://waline.xmhai.cn/.netlify/functions/comment'
 
 //https://waline.jasmiam.top/.netlify/functions/comment
 //https://waline2.jasmiam.top
