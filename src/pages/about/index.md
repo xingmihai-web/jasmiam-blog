@@ -51,7 +51,7 @@ type: "about"
 
 ## 小站点
 
-|     主&emsp;页      |       <https://page.jasmiam.top>        |
+|     主&emsp;页      |       <https://page.xmhai.cn>        |
 | :-----------------: | :-------------------------------: |
 |   **博&emsp;客**    |    **<https://www.xmhai.cn>**    |
 |  **Analytics**  | **<https://analytics.jasmiam.top>** |
