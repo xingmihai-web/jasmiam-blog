@@ -39,7 +39,7 @@ const WalineFn = async (commentDOM: string, walineInit: any) => {
       body.append('file', file);
       const res = await fetch("https://img.xmhai.cn/upload", { method: "POST", body });
       const resJson = await res.json();
-      return resJson.data.link.replace('i.imgur.com', 'img.jasmiam.top/v2');
+      return resJson.data.link.replace('i.imgur.com', 'img.xmhai.cn/v2');
     }
   });
 }
