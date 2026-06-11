@@ -34,7 +34,8 @@ export default {
     PageHeight: '28.88rem',
     // 背景
     // https://pan.xmhai.cn/home-banner.webp
-    background: "url('/assets/images/home-banner.webp') no-repeat center 60%/cover",
+    // /assets/images/home-banner.webp
+    background: "url('https://img.xmhai.cn/v2/YEqszPR.jpeg') no-repeat center 60%/cover",
   },
   // 博客主题配置
   Theme: {
