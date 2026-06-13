@@ -106,10 +106,10 @@ export default {
     // Waline 评论
     Waline: {
       enable: true,
-      serverURL: 'https://waline.xmhai.cn/.netlify/functions/comment'
+      serverURL: 'https://vercel-waline.xmhai.cn'
 
 //https://waline.jasmiam.top/.netlify/functions/comment
-//https://waline2.jasmiam.top
+//https://vercel-waline.xmhai.cn
     }
   },
   // Han Analytics 统计（https://github.com/uxiaohan/HanAnalytics）
