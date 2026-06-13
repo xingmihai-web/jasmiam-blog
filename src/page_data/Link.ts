@@ -26,6 +26,12 @@ export default {
     "link": "https://www.vvhan.com/",
     "avatar": "https://q1.qlogo.cn/g?b=qq&nk=1655466387&s=100",
     "descr": "运气是计划之外的东西."
+    },
+    {
+    "name": "BlogsClub",
+    "link": "https://www.blogsclub.org/",
+    "avatar": "www.blogsclub.org/usr/themes/default/favicon.png",
+    "descr": "博客俱乐部."
     }
   ]
 }
