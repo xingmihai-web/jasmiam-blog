@@ -18,7 +18,7 @@ export default {
     {
     "name": "WebTeleporter",
     "link": "https://webteleporter.top/",
-    "avater": "https://webteleporter.top/favicon.ico?favicon.559ac48c.ico",
+    "avater": "https://webteleporter.top/favicon.ico",
     "descr": "独立博客传送门"
     }
   ]
