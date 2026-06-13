@@ -10,16 +10,22 @@ export default {
       "descr": "一起分享，共同进步"
     },
     {
-    "name": "韩小韩博客",
-    "link": "https://www.vvhan.com/",
-    "avatar": "https://q1.qlogo.cn/g?b=qq&nk=1655466387&s=100",
-    "descr": "运气是计划之外的东西."
+    "name": "萌国萌站广场",
+    "link": "https://icp.gov.moe/aboutus.php",
+    "avatar": "https://icp.gov.moe/favicon.ico",
+    "descr": "~欢迎各位萌站长加入哦。~."
     },
     {
     "name": "WebTeleporter",
     "link": "https://webteleporter.top/",
     "avatar": "https://webteleporter.top/favicon.ico",
     "descr": "独立博客传送门"
+    },
+    {
+    "name": "韩小韩博客",
+    "link": "https://www.vvhan.com/",
+    "avatar": "https://q1.qlogo.cn/g?b=qq&nk=1655466387&s=100",
+    "descr": "运气是计划之外的东西."
     }
   ]
 }
