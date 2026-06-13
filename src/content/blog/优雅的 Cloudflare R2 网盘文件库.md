@@ -2,20 +2,22 @@
 title: 优雅的 Cloudflare R2 网盘文件库
 categories: 开源
 tags:
-  - Cloudflare
   - 开源
+  - Cloudflare
   - Workers
 id: 202606130923
+cover: https://save.xmhai.cn/assets/homescreen.png
 date: 2026-06-13 09:23:00
-cover: "https://save.xmhai.cn/assets/homescreen.png"
-recommend: true
+recommend: false
+comment: true
 ---
 
-# FlareDrive-R2 Worker 部署指南
+## FlareDrive-R2 Worker 部署指南
 
 ### 🌟 项目简介
-> 📌 本项目修改自 [Cloudflare-R2](https://github.com/willow-god/FlareDrive-R2/)，因为Cloudflare pages 不能优选，所以有了此项目
-
+:::note
+ 📌 本项目修改自 [Cloudflare-R2](https://github.com/willow-god/FlareDrive-R2/)，因为Cloudflare pages 优选太麻烦，所以有了此项目
+:::
 
 ## 前置要求
 
@@ -39,7 +41,7 @@ recommend: true
 
 ### 3. Cloudflare Workers 自动部署
 
-[![FlareDrive-R2-Workers](https://deploy.workers.cloudflare.com/button)](https://dash.cloudflare.com/?to=/:account/workers-and-pages/create/deploy-to-workers&repository=https://github.com/xingmihai/FlareDrive-R2-Workers)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/xingmihai/FlareDrive-R2-Workers)
 
 ### 4. 配置 wrangler.toml
 
