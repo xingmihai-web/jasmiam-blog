@@ -10,7 +10,7 @@ export default {
   // 网站作者
   Author: '𝑿𝑴𝑯𝑨𝑰',
   // 作者头像
-  Avatar: 'https://q1.qlogo.cn/g?b=qq&nk=1498934815&s=640',
+  Avatar: 'https://q1.qlogo.cn/g?b=qq&nk=1498934815&s=100',
   // 网站座右铭
   Motto: '除了死亡，一切失败都只存在于心理层面.',
   // Cover 网站缩略图
