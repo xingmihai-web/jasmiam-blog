@@ -10,6 +10,7 @@ type: "about"
 - 本站已加入[萌备](https://icp.gov.moe/?keyword=20259910)
 - 本站已加入[BlogsClub - 博客俱乐部](https://www.blogsclub.org/blog/758.html)
 - 本站已加入[博友圈 · 博客人的朋友圈！](https://www.boyouquan.com/)
+- 本站已加入[中文独立博客](https://github.com/timqian/chinese-independent-blogs)
 ## 小站点
 
 |     主&emsp;页      |       <https://page.xmhai.cn>        |
