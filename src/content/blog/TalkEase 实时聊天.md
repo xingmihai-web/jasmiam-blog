@@ -1,6 +1,6 @@
 ---
 title: TalkEase - 实时聊天
-categories: Cloudflare
+categories: <img src="https://dash.cloudflare.com/favicon-196x196.png" alt="Cloudflare">
 tags:
   - Cloudflare
   - 实时聊天
