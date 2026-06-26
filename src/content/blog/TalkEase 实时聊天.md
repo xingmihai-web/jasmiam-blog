@@ -10,7 +10,6 @@ date: 2025-10-19 05:15:00
 recommend: true
 ---
 
-# TalkEase - 实时聊天
 
 ::btn[👉 快速开始]{link="https://github.com/JASM1AM/TalkEase"}
 
