@@ -1,6 +1,6 @@
 ---
 title: TalkEase - 实时聊天
-categories: Workers
+categories: cf
 tags:
   - Cloudflare
   - Workers
