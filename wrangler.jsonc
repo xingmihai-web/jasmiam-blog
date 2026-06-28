@@ -3,7 +3,7 @@
   "compatibility_date": "2025-03-31",
   "assets": {
     "directory": "./dist"
-  }
+  },
   "observability": {
     "enabled": false,
     "head_sampling_rate": 1,
